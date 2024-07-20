@@ -1,6 +1,6 @@
 <h1 align="center" style="font-family: cursive;">KSHIRABDI TANAYA SWAIN</h1>
 <p align="center"> <img width="195" height="250" src="https://github.com/user-attachments/assets/944acf46-0de5-40aa-9a16-d231761150a0"/> </p> 
-<p align="center"><a href="https://in.linkedin.com/in/kshirabdi-tanaya-swain-9b2416261"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" /></a></p>    
+<p align="center"><a href="https://www.linkedin.com/in/kshirabdi-tanaya-swain-9b2416261/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" /></a></p>    
 <h3 align="center">Student | Fresher | Web Developer</h3>    
 <h4 align="center">
     <img width="18" height="18" src="https://img.icons8.com/pulsar-gradient/48/marker.png"/> Amiyajhari, Jajpur, Odisha, 754082
@@ -74,5 +74,5 @@ Seeking an entry-level position in Information Technology to apply my skills in 
 
 <h2 align="center">All content on this GitHub profile is Copyright (c) 2024 Kshirabdi Tanaya Swain and may not be reproduced without permission. All rights reserved.</h2>
 
-<p align="center">    <a href="mailto:swainkshirabditanaya@gmail.com"><img width="64" height="64" src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/ms-outlook.png"/></a>   <a href="https://in.linkedin.com/in/kshirabdi-tanaya-swain-9b2416261"><img width="64" height="64" src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/linkedin.png"/></a>    <a href="https://github.com/Kshirabdi"><img width="64" height="64" src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/github.png"/></a>   
+<p align="center">    <a href="mailto:swainkshirabditanaya@gmail.com"><img width="64" height="64" src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/ms-outlook.png"/></a>   <a href="https://www.linkedin.com/in/kshirabdi-tanaya-swain-9b2416261/"><img width="64" height="64" src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/linkedin.png"/></a>    <a href="https://github.com/Kshirabdi"><img width="64" height="64" src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/github.png"/></a>   
 </p>
