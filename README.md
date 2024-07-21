@@ -21,11 +21,11 @@ Enthusiastic and diligent B.Sc. Information Technology Management student with a
 ## <img width="35" height="35" src="https://img.icons8.com/nolan/64/diploma.png"/> Education
 
 - **B.Sc. Information Technology Management**  
-  Ravenshaw University, 2021-2024 | CGPA: 9.41
+  Ravenshaw University| 2021-2024 | CGPA: 9.41
 - **12th in Science (CHSE Odisha)**  
-  Tetrahedron Women’s Higher Secondary School, 2019-2021 | Percentage: 81.33%
+  Tetrahedron Women’s Higher Secondary School| 2019-2021 | Percentage: 81.33%
 - **10th (BSE Odisha)**  
-  Byree High School, Byree, 2018-2019 | Percentage: 80.83%
+  Byree High School, Byree| 2018-2019 | Percentage: 80.83%
 
 ## <img width="35" height="35" src="https://img.icons8.com/nolan/64/concept.png"/> Projects
 
